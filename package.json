@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "lodash": "~4.17.5",
+    "lodash": "~4.17.21",
     "replace-in-file": "^4.2.0",
     "through": "~2.3.4"
   },
